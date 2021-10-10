@@ -15,3 +15,24 @@ run ng serve.
 Check port localhost:4200 for website.
 
 or you can run localhost:8080 and create, edit, and delete users using something like postman. Check ApiData.txt for predefined post methods.
+
+https://i.imgur.com/R8JcOT4.png
+
+Create User
+
+https://i.imgur.com/GSkEtDb.png
+
+https://i.imgur.com/E2SaybS.png
+
+Edit User
+
+https://i.imgur.com/b9LT7Pa.png
+
+https://i.imgur.com/24vFs2P.png
+
+Delete User
+
+https://i.imgur.com/UbYt3qi.png
+
+https://i.imgur.com/HQZkcZh.png
+
